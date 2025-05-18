@@ -1,0 +1,14 @@
+C:\Users\Guilherme\Documents\projetos dotnet\PixQrDecoder\bin\Debug\net9.0\PixQrDecoder.exe
+C:\Users\Guilherme\Documents\projetos dotnet\PixQrDecoder\bin\Debug\net9.0\PixQrDecoder.deps.json
+C:\Users\Guilherme\Documents\projetos dotnet\PixQrDecoder\bin\Debug\net9.0\PixQrDecoder.runtimeconfig.json
+C:\Users\Guilherme\Documents\projetos dotnet\PixQrDecoder\bin\Debug\net9.0\PixQrDecoder.dll
+C:\Users\Guilherme\Documents\projetos dotnet\PixQrDecoder\bin\Debug\net9.0\PixQrDecoder.pdb
+C:\Users\Guilherme\Documents\projetos dotnet\PixQrDecoder\obj\Debug\net9.0\PixQrDecoder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guilherme\Documents\projetos dotnet\PixQrDecoder\obj\Debug\net9.0\PixQrDecoder.AssemblyInfoInputs.cache
+C:\Users\Guilherme\Documents\projetos dotnet\PixQrDecoder\obj\Debug\net9.0\PixQrDecoder.AssemblyInfo.cs
+C:\Users\Guilherme\Documents\projetos dotnet\PixQrDecoder\obj\Debug\net9.0\PixQrDecoder.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\Documents\projetos dotnet\PixQrDecoder\obj\Debug\net9.0\PixQrDecoder.dll
+C:\Users\Guilherme\Documents\projetos dotnet\PixQrDecoder\obj\Debug\net9.0\refint\PixQrDecoder.dll
+C:\Users\Guilherme\Documents\projetos dotnet\PixQrDecoder\obj\Debug\net9.0\PixQrDecoder.pdb
+C:\Users\Guilherme\Documents\projetos dotnet\PixQrDecoder\obj\Debug\net9.0\PixQrDecoder.genruntimeconfig.cache
+C:\Users\Guilherme\Documents\projetos dotnet\PixQrDecoder\obj\Debug\net9.0\ref\PixQrDecoder.dll
